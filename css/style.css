@@ -50,7 +50,7 @@ section {
 /* Hero section */
 header {
   height: 100%;
-  background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.6)), url('/images/meeting1.jpg');
+  background-image: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.6)), url("/images/meeting1.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
